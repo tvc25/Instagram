@@ -27,7 +27,13 @@ body {
 
 
     background: url("../images/frame.png") no-repeat;
-    line-height: 20px;
+      line-height: 27px;
+  margin-left: 351px;
+  margin-top: -384px;
+  padding-top: 1px;
+  padding-left: 19px;
+  margin-right: 52px;
+  border-radius: 51px;
 
   }
 
